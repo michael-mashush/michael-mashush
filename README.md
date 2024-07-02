@@ -32,7 +32,7 @@ to the creation of innovative web applications.
 
 <div>
   <img src="https://img.shields.io/badge/eslint-%23222222.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-  <img src="https://img.shields.io/badge/stylelint-%23222222.svg?style=for-the-badge&logo=stylelint&logoColor=263238" />
+  <img src="https://img.shields.io/badge/stylelint-%23222222.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/prettier-%23222222.svg?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
 </div>
 
