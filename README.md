@@ -44,7 +44,7 @@ to the creation of innovative web applications.
 ## Contact information
 
 <div>
-  <a href="https://t.me/michaelmashush" aria-label="telegram" title="telegram" target="_blank">
+  <a href="https://t.me/michaelmashush" aria-label="telegram" title="telegram">
     <img src="https://img.shields.io/badge/telegram-%23222222.svg?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
 </div>
