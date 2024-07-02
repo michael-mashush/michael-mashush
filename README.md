@@ -40,3 +40,12 @@ to the creation of innovative web applications.
   <img src="https://img.shields.io/badge/firebase-%23222222.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
   <img src="https://img.shields.io/badge/supabase-%23222222.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
 </div>
+
+## Contact information
+
+<div>
+  <a href="https://t.me/michaelmashush" aria-label="telegram" title="telegram" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%23222222.svg?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  </a>
+</div>
+
