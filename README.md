@@ -1,4 +1,4 @@
-# Michael Mashush 💜
+# Hi, i'm Michael 👋
 
 Hello! My name is Mikhail and I work in frontend development. 
 I use React, a library for creating user interfaces, as my main tool. 
