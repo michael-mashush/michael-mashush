@@ -1,9 +1,9 @@
 <h1>
-  Hi there 👋
+   👋 Hi there! I'm Michael Mashush
 </h1>
 
 <p align="justify">
-  I am engaged in front-end development and use React as my main tool. 
+  I've been interested in front-end development for quite some time.
   My main goal is to create high-quality, user-friendly and efficient 
   interfaces that make interaction with web applications as comfortable as 
   possible. I stay up-to-date with the latest trends in front-end development 
