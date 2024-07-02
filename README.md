@@ -44,8 +44,11 @@ to the creation of innovative web applications.
 ## Contact information
 
 <div>
+  <a href="https://www.codewars.com/users/michael-mashush" aria-label="codewars" title="codewars">
+    <img src="https://img.shields.io/badge/codewars-%23222222.svg?style=for-the-badge&logo=codewars&logoColor=B1361E" />
+  </a>
   <a href="https://t.me/michaelmashush" aria-label="telegram" title="telegram">
-    <img src="https://img.shields.io/badge/telegram-%23222222.svg?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+    <img src="https://img.shields.io/badge/telegram-%23222222.svg?style=for-the-badge&logo=telegram&logoColor=B1361E" />
   </a>
 </div>
 
