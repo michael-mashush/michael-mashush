@@ -1,5 +1,5 @@
 <h1>
-   👋 Hi there!
+   👋 Hey everyone!
 </h1>
 
 <p align="justify">
