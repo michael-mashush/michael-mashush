@@ -48,4 +48,5 @@
 
 <div>
   <a href="https://t.me/michaelmashush" title="telegram" aria-label="telegram"><img src="https://img.shields.io/badge/telegram-%23222222.svg?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="mailto:michael.mashush.career@gmail.com" title="gmail" aria-label="gmail"><img src="https://img.shields.io/badge/gmail-%23222222.svg?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </div>
