@@ -34,6 +34,9 @@
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/node.js-%23222222.svg?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/express.js-%23222222.svg?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/mongodb-%23222222.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/firebase-%23222222.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
   <img src="https://img.shields.io/badge/supabase-%23222222.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
 </div>
