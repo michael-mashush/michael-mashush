@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/sass-%23222222.svg?style=for-the-badge&logo=sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/bem-%23222222.svg?style=for-the-badge&logo=bem&logoColor=FFFFFF"/>
-</div>
-
-<div>
   <img src="https://img.shields.io/badge/javascript-%23222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23222222.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
