@@ -55,46 +55,46 @@
 
 <div>
   <picture>
-     <source srcset="https://img.shields.io/badge/webpack-%23222222.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
-     <source srcset="https://img.shields.io/badge/webpack-%23f5f5f5.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+     <source srcset="https://img.shields.io/badge/webpack-%23222222.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/webpack-%23f5f5f5.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/webpack-%23222222.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/vite-%23222222.svg?style=for-the-badge&logo=vite&logoColor=646CFF" />
-     <source srcset="https://img.shields.io/badge/vite-%23f5f5f5.svg?style=for-the-badge&logo=vite&logoColor=646CFF" />
+     <source srcset="https://img.shields.io/badge/vite-%23222222.svg?style=for-the-badge&logo=vite&logoColor=646CFF" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/vite-%23f5f5f5.svg?style=for-the-badge&logo=vite&logoColor=646CFF" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/vite-%23222222.svg?style=for-the-badge&logo=vite&logoColor=646CFF" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/vitest-%23222222.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
-     <source srcset="https://img.shields.io/badge/vitest-%23f5f5f5.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
+     <source srcset="https://img.shields.io/badge/vitest-%23222222.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/vitest-%23f5f5f5.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/vitest-%23222222.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/eslint-%23222222.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-     <source srcset="https://img.shields.io/badge/eslint-%23f5f5f5.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+     <source srcset="https://img.shields.io/badge/eslint-%23222222.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/eslint-%23f5f5f5.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/eslint-%23222222.svg?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/stylelint-%23222222.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" />
-     <source srcset="https://img.shields.io/badge/stylelint-%23f5f5f5.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" />
+     <source srcset="https://img.shields.io/badge/stylelint-%23222222.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/stylelint-%23f5f5f5.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/stylelint-%23222222.svg?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" />
   </picture
 </div>
 
 <div>
   <picture>
-     <source srcset="https://img.shields.io/badge/firebase-%23222222.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
-     <source srcset="https://img.shields.io/badge/firebase-%23f5f5f5.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
+     <source srcset="https://img.shields.io/badge/firebase-%23222222.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/firebase-%23f5f5f5.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/firebase-%23222222.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/supabase-%23222222.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
-     <source srcset="https://img.shields.io/badge/supabase-%23f5f5f5.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
+     <source srcset="https://img.shields.io/badge/supabase-%23222222.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/supabase-%23f5f5f5.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/supabase-%23222222.svg?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
   </picture
   <picture>
-     <source srcset="https://img.shields.io/badge/json%20web%20tokens-%23222222.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FFFFFF" />
-     <source srcset="https://img.shields.io/badge/json%20web%20tokens-%23f5f5f5.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FFFFFF" />
+     <source srcset="https://img.shields.io/badge/json%20web%20tokens-%23222222.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FFFFFF" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/json%20web%20tokens-%23f5f5f5.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FFFFFF" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/json%20web%20tokens-%23222222.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FFFFFF" />
   </picture
 </div>
