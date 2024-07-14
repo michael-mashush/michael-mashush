@@ -22,9 +22,9 @@
      <img src="https://img.shields.io/badge/html-%23222222.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
   </picture>
   <picture>
-     <source srcset="https://img.shields.io/badge/webpack-%23222222.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" media="(prefers-color-scheme: dark)" />
-     <source srcset="https://img.shields.io/badge/webpack-%23F5F5F5.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" media="(prefers-color-scheme: light)" />
-     <img src="https://img.shields.io/badge/webpack-%23222222.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+     <source srcset="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css3&logoColor=1572B6" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/css-%23F5F5F5.svg?style=for-the-badge&logo=css3&logoColor=1572B6" media="(prefers-color-scheme: light)" />
+     <img src="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css3&logoColor=8DD6F9" />
   </picture>
   <picture>
      <source srcset="https://img.shields.io/badge/sass-%23222222.svg?style=for-the-badge&logo=sass&logoColor=CC6699" media="(prefers-color-scheme: dark)" />
