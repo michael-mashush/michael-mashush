@@ -22,19 +22,14 @@
      <img src="https://img.shields.io/badge/html-%23222222.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
   </picture>
   <picture>
-     <source srcset="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css3&logoColor=1572B6" media="(prefers-color-scheme: dark)" />
-     <source srcset="https://img.shields.io/badge/css-%23F5F5F5.svg?style=for-the-badge&logo=css3&logoColor=1572B6" media="(prefers-color-scheme: light)" />
-     <img src="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css3&logoColor=8DD6F9" />
+     <source srcset="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css&logoColor=1572B6" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/css-%23F5F5F5.svg?style=for-the-badge&logo=css&logoColor=1572B6" media="(prefers-color-scheme: light)" />
+     <img src="https://img.shields.io/badge/css-%23222222.svg?style=for-the-badge&logo=css&logoColor=8DD6F9" />
   </picture>
   <picture>
      <source srcset="https://img.shields.io/badge/sass-%23222222.svg?style=for-the-badge&logo=sass&logoColor=CC6699" media="(prefers-color-scheme: dark)" />
      <source srcset="https://img.shields.io/badge/sass-%23F5F5F5.svg?style=for-the-badge&logo=sass&logoColor=CC6699" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/sass-%23222222.svg?style=for-the-badge&logo=sass&logoColor=CC6699" />
-  </picture>
-  <picture>
-     <source srcset="https://img.shields.io/badge/bem-%23222222.svg?style=for-the-badge&logo=bem&logoColor=FFFFFF" media="(prefers-color-scheme: dark)" />
-     <source srcset="https://img.shields.io/badge/bem-%23F5F5F5.svg?style=for-the-badge&logo=bem&logoColor=000000" media="(prefers-color-scheme: light)" />
-     <img src="https://img.shields.io/badge/bem-%23222222.svg?style=for-the-badge&logo=bem&logoColor=FFFFFF" />
   </picture>
   <picture>
      <source srcset="https://img.shields.io/badge/javascript-%23222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" media="(prefers-color-scheme: dark)" />
@@ -50,6 +45,11 @@
      <source srcset="https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" media="(prefers-color-scheme: dark)" />
      <source srcset="https://img.shields.io/badge/react-%23F5F5F5.svg?style=for-the-badge&logo=react&logoColor=61DAFB" media="(prefers-color-scheme: light)" />
      <img src="https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </picture>
+  <picture>
+     <source srcset="https://img.shields.io/badge/next-%23222222.svg?style=for-the-badge&logo=next.js&logoColor=FFFFFF" media="(prefers-color-scheme: dark)" />
+     <source srcset="https://img.shields.io/badge/next-%23F5F5F5.svg?style=for-the-badge&logo=next.js&logoColor=000000" media="(prefers-color-scheme: light)" />
+     <img src="https://img.shields.io/badge/react-%23222222.svg?style=for-the-badge&logo=next.js&logoColor=000000" />
   </picture>
 </div>
 
