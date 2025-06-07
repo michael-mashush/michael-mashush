@@ -3,12 +3,7 @@
 </h1>
 
 <p align="justify">
-  I've been interested in front-end development for quite some time.
-  My main goal is to create high-quality, user-friendly and efficient 
-  interfaces that make interaction with web applications as comfortable as 
-  possible. I stay up-to-date with the latest trends in front-end development 
-  and continuously improve my skills. I am ready to take on ambitious 
-  projects and contribute to the creation of innovative web applications.
+  My name is Mikhail, and I am a frontend developer. I strive for professional growth and am open to learning new technologies. My goal is to create high-quality web applications that provide value to users.
 </p>
 
 <h2>
